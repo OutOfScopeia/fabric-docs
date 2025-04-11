@@ -15,7 +15,7 @@ ms.collection: ce-skilling-ai-copilot
 
 Copilot and other generative AI features in preview bring new ways to transform and analyze data, generate insights, and create visualizations in Microsoft Fabric and Power BI.
 
-**Copilot in Microsoft Fabric is enabled by default**. Administrators can be disable it from the admin portal if your organization isn't ready to adopt it. Administrators can refer to the [Copilot tenant settings (preview)](../admin/service-admin-portal-copilot.md) article for details. The following requirements must be met to use Copilot:
+**Copilot in Microsoft Fabric is enabled by default**. Administrators can disable it from the admin portal if your organization isn't ready to adopt it. Administrators can refer to the [Copilot tenant settings (preview)](../admin/service-admin-portal-copilot.md) article for details. The following requirements must be met to use Copilot:
 
 - The F64 capacity must be in a supported region listed in [Fabric region availability](../admin/region-availability.md).
 - If your tenant or capacity is outside the US or EU Data Boundary, Copilot is disabled by default unless your admin enables the tenant setting in the Fabric Admin portal. Note that the [Data sent to Azure OpenAI can be processed outside your tenant's geographic region, compliance boundary, or national cloud instance](../admin/service-admin-portal-copilot.md).
